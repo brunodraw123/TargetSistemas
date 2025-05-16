@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "question_4_financial_perc_company/1.0.0": {
+        "runtime": {
+          "question_4_financial_perc_company.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "question_4_financial_perc_company/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
