@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "question_1", "question_1", "{DDE493CF-C125-0E3F-6803-02CF87363328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "question_1_soma", "question_1\question_1_soma\question_1_soma.csproj", "{6BDED5C4-DC20-C526-E2F6-E7CEA88DB4E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDED5C4-DC20-C526-E2F6-E7CEA88DB4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDED5C4-DC20-C526-E2F6-E7CEA88DB4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDED5C4-DC20-C526-E2F6-E7CEA88DB4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDED5C4-DC20-C526-E2F6-E7CEA88DB4E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BDED5C4-DC20-C526-E2F6-E7CEA88DB4E1} = {DDE493CF-C125-0E3F-6803-02CF87363328}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD082D7-BE94-45B3-818B-E30A6ACD15D4}
+	EndGlobalSection
+EndGlobal
